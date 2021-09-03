@@ -10,7 +10,7 @@ namespace Demo
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World");
+            Console.WriteLine("这是我的第一个程序");
         }
     }
 }

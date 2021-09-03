@@ -2,3 +2,4 @@ F:\learn\VC#.NET\Code\HelloWorld\Demo\Demo\bin\Debug\Demo.exe
 F:\learn\VC#.NET\Code\HelloWorld\Demo\Demo\bin\Debug\Demo.pdb
 F:\learn\VC#.NET\Code\HelloWorld\Demo\Demo\obj\x86\Debug\Demo.exe
 F:\learn\VC#.NET\Code\HelloWorld\Demo\Demo\obj\x86\Debug\Demo.pdb
+F:\learn\VC#.NET\Code\HelloWorld\Demo\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
