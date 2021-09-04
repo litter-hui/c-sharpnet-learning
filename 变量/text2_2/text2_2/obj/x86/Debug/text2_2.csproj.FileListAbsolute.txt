@@ -1,0 +1,7 @@
+F:\learn\VC#.NET\Code\变量\text2_2\text2_2\bin\Debug\text2_2.exe
+F:\learn\VC#.NET\Code\变量\text2_2\text2_2\bin\Debug\text2_2.pdb
+F:\learn\VC#.NET\Code\变量\text2_2\text2_2\obj\x86\Debug\text2_2.Form1.resources
+F:\learn\VC#.NET\Code\变量\text2_2\text2_2\obj\x86\Debug\text2_2.Properties.Resources.resources
+F:\learn\VC#.NET\Code\变量\text2_2\text2_2\obj\x86\Debug\text2_2.csproj.GenerateResource.Cache
+F:\learn\VC#.NET\Code\变量\text2_2\text2_2\obj\x86\Debug\text2_2.exe
+F:\learn\VC#.NET\Code\变量\text2_2\text2_2\obj\x86\Debug\text2_2.pdb

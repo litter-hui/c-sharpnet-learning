@@ -1,7 +1,0 @@
-F:\learn\VC#.NET\Code\HelloWorld\Demo2\Demo2\bin\Debug\Demo2.exe
-F:\learn\VC#.NET\Code\HelloWorld\Demo2\Demo2\bin\Debug\Demo2.pdb
-F:\learn\VC#.NET\Code\HelloWorld\Demo2\Demo2\obj\x86\Debug\Demo2.Form1.resources
-F:\learn\VC#.NET\Code\HelloWorld\Demo2\Demo2\obj\x86\Debug\Demo2.Properties.Resources.resources
-F:\learn\VC#.NET\Code\HelloWorld\Demo2\Demo2\obj\x86\Debug\Demo2.csproj.GenerateResource.Cache
-F:\learn\VC#.NET\Code\HelloWorld\Demo2\Demo2\obj\x86\Debug\Demo2.exe
-F:\learn\VC#.NET\Code\HelloWorld\Demo2\Demo2\obj\x86\Debug\Demo2.pdb
