@@ -22,7 +22,7 @@ namespace Demo2
             Label lblShow = new Label();
             lblShow.Location = new Point(50, 30);
             lblShow.AutoSize = true;
-            lblShow.Text = "本程序由Litter hui设计";
+            lblShow.Text = "本程序由LITTER_HUI设计";
             this.Controls.Add(lblShow);
         }
 

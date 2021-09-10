@@ -1,0 +1,7 @@
+F:\learn\VC#.NET\Code\text7\text7\bin\Debug\text7.exe
+F:\learn\VC#.NET\Code\text7\text7\bin\Debug\text7.pdb
+F:\learn\VC#.NET\Code\text7\text7\obj\x86\Debug\text7.Form1.resources
+F:\learn\VC#.NET\Code\text7\text7\obj\x86\Debug\text7.Properties.Resources.resources
+F:\learn\VC#.NET\Code\text7\text7\obj\x86\Debug\text7.csproj.GenerateResource.Cache
+F:\learn\VC#.NET\Code\text7\text7\obj\x86\Debug\text7.exe
+F:\learn\VC#.NET\Code\text7\text7\obj\x86\Debug\text7.pdb

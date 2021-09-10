@@ -1,0 +1,7 @@
+F:\learn\VC#.NET\Code\judge_variable\judge_variable\obj\x86\Debug\judge_variable.Form1.resources
+F:\learn\VC#.NET\Code\judge_variable\judge_variable\obj\x86\Debug\judge_variable.Properties.Resources.resources
+F:\learn\VC#.NET\Code\judge_variable\judge_variable\obj\x86\Debug\judge_variable.csproj.GenerateResource.Cache
+F:\learn\VC#.NET\Code\judge_variable\judge_variable\bin\Debug\judge_variable.exe
+F:\learn\VC#.NET\Code\judge_variable\judge_variable\bin\Debug\judge_variable.pdb
+F:\learn\VC#.NET\Code\judge_variable\judge_variable\obj\x86\Debug\judge_variable.exe
+F:\learn\VC#.NET\Code\judge_variable\judge_variable\obj\x86\Debug\judge_variable.pdb

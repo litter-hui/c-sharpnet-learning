@@ -1,0 +1,7 @@
+F:\learn\VC#.NET\Code\test2\test2\bin\Debug\test2.exe
+F:\learn\VC#.NET\Code\test2\test2\bin\Debug\test2.pdb
+F:\learn\VC#.NET\Code\test2\test2\obj\x86\Debug\test2.Form1.resources
+F:\learn\VC#.NET\Code\test2\test2\obj\x86\Debug\test2.Properties.Resources.resources
+F:\learn\VC#.NET\Code\test2\test2\obj\x86\Debug\test2.csproj.GenerateResource.Cache
+F:\learn\VC#.NET\Code\test2\test2\obj\x86\Debug\test2.exe
+F:\learn\VC#.NET\Code\test2\test2\obj\x86\Debug\test2.pdb

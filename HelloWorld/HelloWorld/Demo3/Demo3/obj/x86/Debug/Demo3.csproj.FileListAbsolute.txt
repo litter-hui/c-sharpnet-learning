@@ -6,3 +6,9 @@ F:\learn\VC#.NET\Code\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.csproj.Generate
 F:\learn\VC#.NET\Code\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.exe
 F:\learn\VC#.NET\Code\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.pdb
 F:\learn\VC#.NET\Code\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.csprojResolveAssemblyReference.cache
+F:\learn\VC#.NET\Code\HelloWorld\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.exe
+F:\learn\VC#.NET\Code\HelloWorld\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.pdb
+F:\learn\VC#.NET\Code\HelloWorld\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.csprojResolveAssemblyReference.cache
+F:\learn\VC#.NET\Code\HelloWorld\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.Form1.resources
+F:\learn\VC#.NET\Code\HelloWorld\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.Properties.Resources.resources
+F:\learn\VC#.NET\Code\HelloWorld\HelloWorld\Demo3\Demo3\obj\x86\Debug\Demo3.csproj.GenerateResource.Cache

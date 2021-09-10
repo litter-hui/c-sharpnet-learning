@@ -1,3 +1,5 @@
+
+
 # 	C#
 
 [TOC]
@@ -8,7 +10,7 @@
 
 
 
-![image-20210904110559862](C:%5CUsers%5CLitterhui%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210904110559862.png)
+![image-20210904110559862](README.assets/image-20210904110559862.png)
 
 
 
@@ -28,7 +30,7 @@
 
 ### 控件设置
 
-![image-20210904113249154](C:%5CUsers%5CLitterhui%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210904113249154.png)
+![image-20210904113249154](README.assets/image-20210904113249154.png)
 
 ```c#
         private void btnOK_Click(object sender, EventArgs e)    //按键事件
@@ -69,7 +71,7 @@ public partial class text : System.Web.UI.Page
 
 ### 变量
 
-![image-20210904154639684](C:%5CUsers%5CLitterhui%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210904154639684.png)
+![image-20210904154639684](README.assets/image-20210904154639684.png)
 
 变量的使用个C语言差别不大，按照C语言的格式去写就行。
 
@@ -77,7 +79,7 @@ public partial class text : System.Web.UI.Page
 
 结构体的使用和C语言一样，只不过它内置有一些特定的结构体
 
-![image-20210904155211469](C:%5CUsers%5CLitterhui%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210904155211469.png)
+![image-20210904155211469](README.assets/image-20210904155211469.png)
 
 ```c#
         struct Student
@@ -104,5 +106,4 @@ public partial class text : System.Web.UI.Page
 
 ### 变量转化
 
-![image-20210904160737552](C:%5CUsers%5CLitterhui%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210904160737552.png)
-
+![image-20210904160737552](README.assets/image-20210904160737552.png)

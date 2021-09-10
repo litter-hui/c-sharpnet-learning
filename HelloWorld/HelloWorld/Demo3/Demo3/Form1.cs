@@ -23,6 +23,5 @@ namespace Demo3
             labelshow.Text = strResult;
         }
 
-
     }
 }
